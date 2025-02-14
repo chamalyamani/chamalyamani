@@ -18,9 +18,6 @@ Passionnée par le code et le design, je me plonge dans l’univers du développ
 </p>
 
 ---
-
----
-
 ✨ **Toujours prête à apprendre et à collaborer !** 🚀  
 📫 Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/chaimaalyamani/) ou sur GitHub !  
 
