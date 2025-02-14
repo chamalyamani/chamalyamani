@@ -1,4 +1,4 @@
-# 🌟 Salut, moi c'est Chama ! 🚀
+# 🌟 Salut, moi c'est Chaimaa ! 🚀
 
 Passionnée par le code et le design, je me plonge dans l’univers du développement web pour créer des interfaces modernes et interactives. Toujours curieuse, j’aime apprendre et relever de nouveaux défis ! 🌍✨  
 
