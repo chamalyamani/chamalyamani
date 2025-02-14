@@ -3,10 +3,9 @@
 Passionnée par le code et le design, je me plonge dans l’univers du développement web pour créer des interfaces modernes et interactives. Toujours curieuse, j’aime apprendre et relever de nouveaux défis ! 🌍✨  
 
 🎯 En ce moment, j’explore :
-
-⚛️ React.js – Construire des interfaces dynamiques
-🐍 Python – Automatisation et backend
-🔍 Backend – En cours de découverte...
+<br>⚛️ React.js – Construire des interfaces dynamiques
+<br>🐍 Python – Automatisation et backend
+<br>🔍 Backend – En cours de découverte...
 
 ---
 
