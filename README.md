@@ -19,6 +19,6 @@ Je suis une développeuse passionnée, actuellement en formation à **1337**. J'
 ---
 
 ✨ **Toujours prête à apprendre et à collaborer !** 🚀  
-📫 Contacte-moi sur [LinkedIn](#) ou sur GitHub !  
+📫 Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/chaimaalyamani/) ou sur GitHub !  
 
 [![clyamani's 42 stats](https://badge.mediaplus.ma/greenbinary/clyamani)](https://github.com/oakoudad/badge42)
