@@ -1,11 +1,12 @@
 # 🌟 Salut, moi c'est Chama ! 🚀
 
-Je suis une développeuse passionnée, actuellement en formation à **1337**. J'aime apprendre et explorer le monde du développement web et du design. 🌍✨  
+Passionnée par le code et le design, je me plonge dans l’univers du développement web pour créer des interfaces modernes et interactives. Toujours curieuse, j’aime apprendre et relever de nouveaux défis ! 🌍✨  
 
-🎯 **Ce que j'apprends en ce moment :**  
-- 🖥️ **Front-end** (HTML, CSS, JavaScript, React)  
-- 🛠️ **Back-end** (Docker, Nginx, MariaDB)  
-- 🎨 **Design & UI/UX** (Figma, animations CSS)  
+🎯 En ce moment, j’explore :
+
+⚛️ React.js – Construire des interfaces dynamiques
+🐍 Python – Automatisation et backend
+🔍 Backend – En cours de découverte...
 
 ---
 
