@@ -16,10 +16,8 @@ Je suis une développeuse passionnée, actuellement en formation à **1337**. J'
 
 ---
 
-## 📊 **Stats GitHub**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chama1337&show_icons=true&theme=radical" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,docker" />
+
 
 ---
 
