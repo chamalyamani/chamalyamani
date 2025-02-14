@@ -12,7 +12,7 @@ Je suis une développeuse passionnée, actuellement en formation à **1337**. J'
 ## 🛠️ **Langages et Outils**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,mysql,postman,git,html,css,js,react,docker,nginx,figma" />
-  ![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge&logo=figma)
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge&logo=figma" />
 </p>
 
 ---
