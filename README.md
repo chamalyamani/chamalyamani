@@ -11,7 +11,7 @@ Je suis une développeuse passionnée, actuellement en formation à **1337**. J'
 
 ## 🛠️ **Langages et Outils**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,html,css,js,react,docker,nginx,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,mariadb,mysql,postman,git,html,css,js,react,docker,nginx,figma" />
 </p>
 
 ---
