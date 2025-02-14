@@ -16,9 +16,6 @@ Je suis une développeuse passionnée, actuellement en formation à **1337**. J'
 
 ---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,docker" />
-
-
 ---
 
 ✨ **Toujours prête à apprendre et à collaborer !** 🚀  
