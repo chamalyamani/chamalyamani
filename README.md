@@ -18,7 +18,12 @@ Passionnée par le code et le design, je me plonge dans l’univers du développ
 </p>
 
 ---
+<div align="center">
+
 ✨ **Toujours prête à apprendre et à collaborer !** 🚀  
 📫 Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/chaimaalyamani/) ou sur GitHub !  
 
 [![clyamani's 42 stats](https://badge.mediaplus.ma/greenbinary/clyamani)](https://github.com/oakoudad/badge42)
+
+</div>
+
