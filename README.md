@@ -4,7 +4,6 @@ Passionnée par le code et le design, je me plonge dans l’univers du développ
 
 🎯 En ce moment, j’explore :
 <br>⚛️ React.js – Construire des interfaces dynamiques
-<br>🐍 Python – Automatisation et backend
 <br>🔍 Backend – En cours de découverte...
 
 ---
