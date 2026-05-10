@@ -2,9 +2,9 @@
 
 # ✨ Chaimaa Lyamani ✨
 
-### `Software Engineering Student • AI/ML Explorer • Full-Stack Developer`
+### `AI/ML Enthusiast • Full-Stack Developer • Cloud & DevOps Learner`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F48FB1&center=true&vCenter=true&width=500&lines=Machine+Learning+%26+AI+Enthusiast;Full-Stack+Developer;Cloud+%26+DevOps+Learner;Building+and+learning+every+day+☁️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F8A5C2&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Explorer;Full-Stack+Developer;AWS+%26+Cloud+Infrastructure;Docker+%26+Kubernetes+Learner;Always+building+and+learning+✨" />
 
 </div>
 
@@ -12,47 +12,21 @@
 
 <div align="center">
 
-### 🌸 About Me
+## 🌸 About Me
 
-</div>
+Software Engineering student at **42 Network (UM6P)** passionate about  
+**Machine Learning, AI, Cloud Infrastructure, and Full-Stack Development**.
 
-```text
-→ Software Engineering student at 42 Network (UM6P)
-→ Passionate about AI, Machine Learning, and Cloud technologies
-→ Interested in scalable systems and modern infrastructures
-→ Enjoy building both frontend experiences and backend architectures
-→ Constantly learning through projects, experimentation, and problem solving
-```
+I enjoy exploring how systems work behind the scenes — from intelligent models  
+and data processing to scalable backend architectures and cloud deployments.
 
----
+Currently learning through projects focused on:
 
-<div align="center">
-
-### ☁️ Currently Focused On
-
-</div>
-
-<p align="center">
-
-🧠 Machine Learning & AI  
-☁️ AWS Cloud & Infrastructure  
+🧠 AI & Machine Learning  
+☁️ AWS & Cloud Computing  
 ☸️ Kubernetes & Docker  
-⚡ Full-Stack Development  
 📊 Data Science & Computer Vision  
-
-</p>
-
----
-
-<div align="center">
-
-# 💻 Tech Stack
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nextjs,nodejs,nestjs,html,css,tailwind,redux,mysql,postgres,mongodb,docker,kubernetes,aws,linux,git,github,postman,figma,vscode" />
+⚡ Modern Full-Stack Applications  
 
 </div>
 
@@ -60,23 +34,40 @@
 
 <div align="center">
 
-### 🛠️ Technologies & Tools
+# 💻 Languages & Technologies
 
 </div>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-ffb6c1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-f8bbd0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Science-f48fb1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS%20Cloud-f06292?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-fce4ec?style=for-the-badge&logo=docker&logoColor=black" />
-<img src="https://img.shields.io/badge/Kubernetes-f8bbd0?style=for-the-badge&logo=kubernetes&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-f48fb1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-f06292?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-fce4ec?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nextjs,nodejs,nestjs,html,css,tailwind,redux,mysql,postgres,mongodb,docker,kubernetes,aws,linux,git,github,postman,figma,vscode,bash" />
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ Tech & Tools
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F8BBD0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-F48FB1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-FCE4EC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-F8A5C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-F48FB1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-FCE4EC?style=for-the-badge&logo=amazonaws&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-F8BBD0?style=for-the-badge&logo=docker&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-F48FB1?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-FCE4EC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Administration-F8A5C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-F48FB1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-FCE4EC?style=for-the-badge&logo=redis&logoColor=black" />
+
+</div>
 
 ---
 
@@ -94,7 +85,13 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaimaalyamani/)
+<a href="https://www.linkedin.com/in/chaimaalyamani/">
+  <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chaimaelyamani0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FCE4EC?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
 </div>
 
@@ -102,9 +99,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chamalyamani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamalyamani&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -112,6 +107,6 @@
 
 <div align="center">
 
-### ✨ "Always building. Always learning."
+### ✨ Learning. Building. Evolving.
 
 </div>
