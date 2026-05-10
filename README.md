@@ -64,8 +64,6 @@ Currently learning through projects focused on:
 <img src="https://img.shields.io/badge/Kubernetes-F48FB1?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-FCE4EC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System%20Administration-F8A5C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-F48FB1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-FCE4EC?style=for-the-badge&logo=redis&logoColor=black" />
 
 </div>
 
